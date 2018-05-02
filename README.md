@@ -2,6 +2,9 @@
 # STRATEGY: SORT
 ## Description
 This project is meant to compare the output time of diferent sort algorithms like: merge sort, insert sort, bubble sort, shell sort. Tested  with diferent size of arrays.
+ ## Computer caracteristics
+ Processor: intel core i5. 2.30 GHz
+ RAM: 8192 MB
 
 ## Experiments and Results
 
