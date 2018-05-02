@@ -13,8 +13,6 @@ This project is meant to compare the output time of diferent sort algorithms lik
 | 100000 | 0.001 | 0 | 0.068 | 0 |
 | 1000000 | 0.008 | 0.001 | 6.788 | 0.002 |
 
-| size | Merge sort | Insert sort |  Bubble sort | Shell sort |
- --- | --- | --- | --- |
 
 ## Graphic in Gnuplot
 
