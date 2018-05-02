@@ -21,3 +21,6 @@ This project is meant to compare the output time of diferent sort algorithms lik
 
 ![gnu](https://user-images.githubusercontent.com/38145387/39545109-c62a6552-4e15-11e8-85c8-f43ae9cf6606.png)
 
+## Collaborators
+María Luisa Pinto García
+Diego Añazco Bolívar
