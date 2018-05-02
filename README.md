@@ -6,7 +6,7 @@ This project is meant to compare the output time of diferent sort algorithms lik
 ## Experiments and Results
 
 | SIZE  | Merge sort | Insert sort |  Bubble_sort | Shell sort |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | 10 | 0 | 0 | 0 | 0 |
 | 100 | 0 | 0 | 0 | 0 |
 | 1000 | 0 | 0 | 0.001 | 0 |
