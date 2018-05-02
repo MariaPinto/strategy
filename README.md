@@ -13,8 +13,8 @@ This project is meant to compare the output time of diferent sort algorithms lik
 | 10 | 0 | 0 | 0 | 0 |
 | 100 | 0 | 0 | 0 | 0 |
 | 1000 | 0 | 0 | 0.001 | 0 |
-| 100000 | 0.001 | 0 | 0.068 | 0 |
-| 1000000 | 0.008 | 0.001 | 6.788 | 0.002 |
+| 100000 | 0.001 | 0.078 | 0.68 | 0 |
+| 1000000 | 0.008 | 2.4919 | 6.788| 0.002 |  
 
 
 ## Graphic in Gnuplot
